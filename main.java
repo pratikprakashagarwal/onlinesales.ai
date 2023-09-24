@@ -1,3 +1,4 @@
+// compile the file using "javac main.java" and run the file using "java main"
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;

@@ -1,3 +1,4 @@
+# to ru the code in terminal run "python assignment3.py"
 def compute(n):
     if n < 10:
         out = n ** 2
